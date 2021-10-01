@@ -1,7 +1,7 @@
 {
   "name": "uubside",
   "version": "1.0.0",
-  "description": "Uncool Unoriginal Bland Stupid Integrated Developer Environment (UUBSIDE)",
+  "description": "Uncool Unoriginal Bland Stupid Integrated Developer Environment.   A browser-based IDE (if you would even call it that)",
   "main": "index.html",
   "scripts": {
     "start": "serve",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "impozible1",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/codesandbox-app/static-template/issues"
